@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lahn --block-size=1
+ls -lah --block-size=1
